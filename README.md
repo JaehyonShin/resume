@@ -50,16 +50,16 @@
 * 사용 Tool 및 DB: MSSQL, Visual Studio, SSMS, SVN
 * 주요 업무 
   * LMS 웹페이지 구축 - ASP.NET
-  * 현황판 프로그램 개발 및 배포 - WPF
+  * 현황판 프로그램 개발 및 배포 - WPF(MVVM)
   * 바코드 발행 프로그램 개발 및 배포 - Windows Form
-  * DB 관리 - MS SQL SERVER
+  * DB 관리 - MSSQL SERVER
 
 ### 룩옵틱스 경력
-* 기간 : 2020-03 ~ 
+* 기간 : 2020-03 ~ 재직중
 * 정보운영인원 : 3명
 * 사용 Tool 및 DB: SSMS, Visual Studio, Toad, MSSQL, Oracle, SVN
 * 주요 업무 
-  * 사내 ERP 운영 및 개발 - WINDOWS FORM (.NET Frame Work 2.0, Oracle, 외부 사설 프레임워크)
-  * 관계사 매장 관리 웹사이트 운영 및 개발 - ASP.NET (.NET Frame Work 4.0, MSSQL,)
-  * 관계사 매장 PDA 프로그램 운영 및 개발 - ASP Classic (VB script)
+  * 사내 ERP 운영 및 개발 - Windows Form (.NET Frame Work 2.0, Oracle, 외부 사설 프레임워크)
+  * 관계사 매장 관리 웹사이트 운영 및 개발 (매출 및 상품권 연동 시스템(외부 API) ) - ASP.NET (.NET Frame Work 4.0, MSSQL)
+  * 관계사 매장 PDA 프로그램(매출관리) 운영 및 개발 - ASP Classic (VB script)
   * 사내 서버관리
