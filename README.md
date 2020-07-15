@@ -2,9 +2,12 @@
 
 ## 경력
 #### 에이시에스
-* 2016-07-04 ~ 현재 재직중
+* 2016-07-04 ~ 2020-02-29
+#### 룩옵틱스
+* 2020-03-16 ~ 재직중
 
 ## 경력기술서
+### 에이시에스 경력
 #### 남양공업 폴란드공장 MES 구축
 * 기간 : 2016-11 ~ 2017-03
 * 투입인원 : 6명
@@ -51,3 +54,12 @@
   * 바코드 발행 프로그램 개발 및 배포 - Windows Form
   * DB 관리 - MS SQL SERVER
 
+### 룩옵틱스 경력
+* 기간 : 2020-03 ~ 
+* 정보운영인원 : 3명
+* 사용 Tool 및 DB: SSMS, Visual Studio, Toad, MSSQL, Oracle, SVN
+* 주요 업무 
+  * 사내 ERP 운영 및 개발 - WINDOWS FORM (.NET Frame Work 2.0, Oracle, 외부 사설 프레임워크)
+  * 관계사 매장 관리 웹사이트 운영 및 개발 - ASP.NET (.NET Frame Work 4.0, MSSQL,)
+  * 관계사 매장 PDA 프로그램 운영 및 개발 - ASP Classic (VB script)
+  * 사내 서버관리
