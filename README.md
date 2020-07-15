@@ -45,7 +45,7 @@
   * WMS 시스템 관리 프로그램 개발 배포 - Windows Form
   
 #### 서한산업 LMS 구축
-* 기간 : 2018-11 ~ 
+* 기간 : 2018-11 ~ 2020-02
 * 투입인원 : 3명
 * 사용 Tool 및 DB: MSSQL, Visual Studio, SSMS, SVN
 * 주요 업무 
