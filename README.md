@@ -61,5 +61,6 @@
 * 주요 업무 
   * 사내 ERP 운영 및 개발 - Windows Form (.NET Frame Work 2.0, Oracle, 외부 사설 프레임워크)
   * 관계사 매장 관리 웹사이트 운영 및 개발 (매출 및 상품권 연동 시스템(외부 API) ) - ASP.NET (.NET Frame Work 4.0, MSSQL)
-  * 관계사 매장 PDA 프로그램(매출관리) 운영 및 개발 - ASP Classic (VB script)
-  * 사내 서버관리
+  * 관계사 매장 PDA 웹앱(매출관리) 운영 및 개발 - ASP Classic (VB script)
+  * POS 웹페이지 기능 개발
+  * 사내 서버관리(IIS, ORACLE, MSSQL)
